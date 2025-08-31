@@ -11,6 +11,6 @@ A lightweight Python watchdog that monitors a web service (such as [OctoBot](htt
 ## 📦 Installation
 Clone this repository and install dependencies:
 ```bash
-git clone https://github.com/rayanm2acha/restart-watchdog.git
-cd restart-watchdog
+git clone https://github.com/rayanm2acha/watchdog.git
+cd watchdog
 pip install -r requirements.txt
