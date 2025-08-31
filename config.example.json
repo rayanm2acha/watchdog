@@ -1,0 +1,6 @@
+{
+  "url": "http://localhost:80",
+  "container_name": "OctoBot",
+  "check_interval": 60,
+  "discord_webhook_url": "YOUR_DISCORD_WEBHOOK_URL"
+}
