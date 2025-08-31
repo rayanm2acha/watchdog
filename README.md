@@ -1,4 +1,4 @@
-# 🚀 Restart Watchdog
+# 🚀 Restart Watchdog - DevOps
 
 A lightweight Python watchdog that monitors a web service (such as [OctoBot](https://github.com/Drakkar-Software/OctoBot) running in Docker) and automatically restarts the container if the service becomes unavailable. Optional Discord integration lets you receive alerts when the service goes down or when a restart occurs.
 
